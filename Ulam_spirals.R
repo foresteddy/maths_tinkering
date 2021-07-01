@@ -47,7 +47,7 @@ prime_numbers <- function(n) {
 pn <- prime_numbers(N)
 
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-# 2. FUNCTION FOR FINDING PRIME NUMBERS
+# 2. CREATING SPIRAL MATRIX OF THE NUMBERS
 #+++++++++++++++++
 
 #spiral matrix of the numbers
